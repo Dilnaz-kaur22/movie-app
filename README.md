@@ -2,4 +2,4 @@
 
 ### For live demo 
 
-Click [me]()
+Click [me](https://dilnaz-kaur22.github.io/movie-app/)
